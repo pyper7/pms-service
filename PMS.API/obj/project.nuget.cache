@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GvpHftMs6fM=",
+  "dgSpecHash": "FFE2vAnBk+U=",
   "success": true,
   "projectFilePath": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\PMS.API.csproj",
   "expectedPackageFiles": [
@@ -87,6 +87,8 @@
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\mimekit\\4.3.0\\mimekit.4.3.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.4\\npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\swashbuckle.aspnetcore\\7.0.0\\swashbuckle.aspnetcore.7.0.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",

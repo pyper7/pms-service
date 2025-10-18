@@ -171,11 +171,7 @@ public class ProcessService : IProcessService
                 return ApiResponse<object>.Fail("Process not found", "NOT_FOUND");
             }
 
-            var success = await _processRepository.DeleteAsync(id);
-            if (!success)
-            {
-                return ApiResponse<object>.Fail("Failed to delete process", "INTERNAL_ERROR");
-            }
+            await _processRepository.DeleteAsync(process);
 
             return ApiResponse<object>.Ok(null, "Process deleted successfully");
         }

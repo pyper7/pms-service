@@ -75,9 +75,8 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// Configure Entity Framework
-builder.Services.AddDbContext<PmsDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Configure Entity Framework with database provider selection
+builder.Services.AddDatabase(builder.Configuration);
 
 // Configure JWT settings
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));

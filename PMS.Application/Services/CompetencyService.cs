@@ -184,11 +184,7 @@ public class CompetencyService : ICompetencyService
                 return ApiResponse<object>.Fail("Competency not found", "NOT_FOUND");
             }
 
-            var success = await _competencyRepository.DeleteAsync(id);
-            if (!success)
-            {
-                return ApiResponse<object>.Fail("Failed to delete competency", "INTERNAL_ERROR");
-            }
+            await _competencyRepository.DeleteAsync(competency);
 
             return ApiResponse<object>.Ok(null, "Competency deleted successfully");
         }

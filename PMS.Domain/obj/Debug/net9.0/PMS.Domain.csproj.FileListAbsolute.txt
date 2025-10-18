@@ -9,3 +9,4 @@ C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Domain\obj\De
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Domain\obj\Debug\net9.0\refint\PMS.Domain.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Domain\obj\Debug\net9.0\PMS.Domain.pdb
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Domain\obj\Debug\net9.0\ref\PMS.Domain.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Domain\obj\Debug\net9.0\PMS.Domain.sourcelink.json

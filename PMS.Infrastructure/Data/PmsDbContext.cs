@@ -1,12 +1,20 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using PMS.Domain.Entities;
 
 namespace PMS.Infrastructure.Data;
 
 public class PmsDbContext : DbContext
 {
+    private readonly IConfiguration? _configuration;
+
     public PmsDbContext(DbContextOptions<PmsDbContext> options) : base(options)
     {
+    }
+
+    public PmsDbContext(DbContextOptions<PmsDbContext> options, IConfiguration configuration) : base(options)
+    {
+        _configuration = configuration;
     }
 
     public DbSet<User> Users { get; set; }
@@ -39,6 +47,9 @@ public class PmsDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+        // Configure database-specific settings
+        ConfigureDatabaseSpecificSettings(modelBuilder);
             // KRA
             modelBuilder.Entity<Kra>(entity =>
             {
@@ -284,5 +295,11 @@ public class PmsDbContext : DbContext
         modelBuilder.Entity<Qualification>().HasQueryFilter(e => !e.IsDeleted);
         modelBuilder.Entity<WorkHistory>().HasQueryFilter(e => !e.IsDeleted);
         modelBuilder.Entity<StatusHistory>().HasQueryFilter(e => !e.IsDeleted);
+    }
+
+    private void ConfigureDatabaseSpecificSettings(ModelBuilder modelBuilder)
+    {
+        // Database-specific configurations can be added here if needed
+        // For now, we'll rely on the default EF Core behavior
     }
 }

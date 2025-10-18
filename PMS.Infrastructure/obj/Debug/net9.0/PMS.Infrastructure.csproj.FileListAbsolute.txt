@@ -17,3 +17,4 @@ C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Infrastructur
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Infrastructure\obj\Debug\net9.0\PMS.Infrastructure.pdb
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Infrastructure\obj\Debug\net9.0\PMS.Infrastructure.genruntimeconfig.cache
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Infrastructure\obj\Debug\net9.0\ref\PMS.Infrastructure.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Infrastructure\obj\Debug\net9.0\PMS.Infrastructure.sourcelink.json

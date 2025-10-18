@@ -185,4 +185,7 @@ C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\obj\Debug
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\MailKit.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\MimeKit.dll
-C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.API\obj\Debug\net9.0\PMS.API.sourcelink.json

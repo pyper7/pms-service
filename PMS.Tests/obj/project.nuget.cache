@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ssU7hkWGRjs=",
+  "dgSpecHash": "kfSn0Tawo/A=",
   "success": true,
   "projectFilePath": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Tests\\PMS.Tests.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,8 @@
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\mimekit\\4.3.0\\mimekit.4.3.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.4\\npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",

@@ -180,11 +180,7 @@ public class AppraisalPeriodService : IAppraisalPeriodService
                 return ApiResponse<object>.Fail("Period not found", "NOT_FOUND");
             }
 
-            var success = await _periodRepository.DeleteAsync(id);
-            if (!success)
-            {
-                return ApiResponse<object>.Fail("Failed to delete period", "INTERNAL_ERROR");
-            }
+            await _periodRepository.DeleteAsync(period);
 
             return ApiResponse<object>.Ok(null, "Period deleted successfully");
         }

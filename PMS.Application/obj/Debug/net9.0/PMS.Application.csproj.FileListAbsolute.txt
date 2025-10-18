@@ -13,3 +13,4 @@ C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\o
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\refint\PMS.Application.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.pdb
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\ref\PMS.Application.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.sourcelink.json

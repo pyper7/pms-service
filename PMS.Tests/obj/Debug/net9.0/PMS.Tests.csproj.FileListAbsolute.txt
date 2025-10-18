@@ -267,3 +267,6 @@ C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Deb
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Debug\net9.0\MimeKit.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Debug\net9.0\Npgsql.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Tests\obj\Debug\net9.0\PMS.Tests.sourcelink.json
