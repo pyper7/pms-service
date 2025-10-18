@@ -1,0 +1,1338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\competencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\competencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\appraisalperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\appraisalperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\appraisalsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\appraisalsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\scoringweightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\scoringweightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\notificationsettingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\notificationsettingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\processrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\processrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\competencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\competencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\appraisalperiodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\appraisalperiodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\notificationsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\notificationsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iscoringweightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iscoringweightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\scoringweightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\scoringweightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\icompetencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\icompetencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iappraisalperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iappraisalperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\inotificationsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\inotificationsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\pmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\pmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\kraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\kraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\pmsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\pmsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\krarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\krarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\kpiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\kpiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\krascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\krascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\postoccupanciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\postoccupanciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\organizationalunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\organizationalunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\comprehensiveseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\comprehensiveseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\orgunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\orgunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\officerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\officerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.domain\\entities\\orgunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\orgunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\emailqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\emailqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\officerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\officerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\emaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\emaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\pms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\pms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\emailretrybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\emailretrybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\models\\officers\\officerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\models\\officers\\officerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250913160312_updofficermanagements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250913160312_updofficermanagements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\officerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\officerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iofficerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iofficerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\databasecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\databasecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\data\\orgunitseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\orgunitseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\models\\posts\\postdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\models\\posts\\postdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\orgunitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\orgunitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iorgunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iorgunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250910212209_removedmda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250910212209_removedmda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\pms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\pms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CB162A-25D2-7616-4858-933C856287C0}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.application\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7789B9-973C-E75D-5821-4AFB6D69786B}|PMS.Application\\PMS.Application.csproj|solutionrelative:pms.application\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\pmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\pmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250910215101_updatepost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250910215101_updatepost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.domain\\entities\\postrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\postrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.domain\\entities\\postoccupancyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43DB833-4436-B1B7-97DA-3AD23D87A962}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\postoccupancyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B90AED1-1794-2029-A33D-B6B6278A6535}|PMS.Tests\\PMS.Tests.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.tests\\pms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B90AED1-1794-2029-A33D-B6B6278A6535}|PMS.Tests\\PMS.Tests.csproj|solutionrelative:pms.tests\\pms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250910215101_updatepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250910215101_updatepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250913141300_addofficermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250913141300_addofficermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250913185921_addnotificationtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250913185921_addnotificationtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250912214901_remvmda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250912214901_remvmda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250915153225_removecadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250915153225_removecadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|c:\\users\\sulaimonfasasi\\source\\repos\\imaansoft\\pms\\pms-service\\pms.infrastructure\\migrations\\20250914142937_addemaillogentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3700AE-3174-CB9D-FD9A-021812A88614}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\migrations\\20250914142937_addemaillogentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\PostService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\PostService.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAIAwwGYBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:23:19.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoringWeightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\ScoringWeightRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\ScoringWeightRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\ScoringWeightRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\ScoringWeightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:56:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ProcessService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\ProcessService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ProcessService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\ProcessService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAhwK0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:32:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetencyService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\CompetencyService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\CompetencyService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\CompetencyService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\CompetencyService.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAhwLoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:32:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppraisalPeriodService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\AppraisalPeriodService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\AppraisalPeriodService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\AppraisalPeriodService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\AppraisalPeriodService.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAhwLYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:48:59.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppraisalSettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\AppraisalSettingsController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\AppraisalSettingsController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\AppraisalSettingsController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\AppraisalSettingsController.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAawJIBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:26:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationSettingsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\NotificationSettingsRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\NotificationSettingsRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\NotificationSettingsRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\NotificationSettingsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:53:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\ProcessRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\ProcessRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\ProcessRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\ProcessRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:31:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompetencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\CompetencyRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\CompetencyRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\CompetencyRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\CompetencyRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:53:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppraisalPeriodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\AppraisalPeriodRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\AppraisalPeriodRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\AppraisalPeriodRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\AppraisalPeriodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:30:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationSettingsService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\NotificationSettingsService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\NotificationSettingsService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\NotificationSettingsService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\NotificationSettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:57:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IScoringWeightService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IScoringWeightService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IScoringWeightService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IScoringWeightService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IScoringWeightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:54:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProcessService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IProcessService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IProcessService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IProcessService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IProcessService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:53:14.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoringWeightService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ScoringWeightService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\ScoringWeightService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ScoringWeightService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\ScoringWeightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:51:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICompetencyService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\ICompetencyService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\ICompetencyService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\ICompetencyService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\ICompetencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:31:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppraisalPeriodService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IAppraisalPeriodService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IAppraisalPeriodService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IAppraisalPeriodService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IAppraisalPeriodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:31:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "INotificationSettingsService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\INotificationSettingsService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\INotificationSettingsService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\INotificationSettingsService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\INotificationSettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:27:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250921143512_addKRA.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250921143512_addKRA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:35:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250921143302_addKRA.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250921143302_addKRA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:33:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PMS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\appsettings.json",
+              "RelativeToolTip": "PMS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T18:27:16.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Program.cs",
+              "RelativeToolTip": "PMS.API\\Program.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAwNkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:32:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PMS.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\appsettings.Development.json",
+              "RelativeToolTip": "PMS.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T18:28:31.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KraService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\KraService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\KraService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\KraService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\KraService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:08:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\PmsDbContext.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\PmsDbContext.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\PmsDbContext.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\PmsDbContext.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAWwB0BAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:31:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ObjectivesController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\ObjectivesController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\ObjectivesController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\ObjectivesController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\ObjectivesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:08:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KrasController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\KrasController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\KrasController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\KrasController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\KrasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:09:07.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KpisController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\KpisController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\KpisController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\KpisController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\KpisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:09:10.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PmsDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\PmsDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\PmsDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\PmsDbContextFactory.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\PmsDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:41:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAD4v04AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:11:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwF4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:03:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:24:33.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\KraRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\KraRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\KraRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\KraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:09:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwIcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:25:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\SeedData.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\SeedData.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:15:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:30:36.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrganizationalUnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\OrganizationalUnitsController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\OrganizationalUnitsController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\OrganizationalUnitsController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\OrganizationalUnitsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:11:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:16:55.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Models\\Auth\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "PMS.Application\\Models\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:03:21.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250915153225_removeCadre.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250915153225_removeCadre.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250915153225_removeCadre.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250915153225_removeCadre.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250915153225_removeCadre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:32:25.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PostOccupanciesController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\PostOccupanciesController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\PostOccupanciesController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\PostOccupanciesController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\PostOccupanciesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:50:48.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:07:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ComprehensiveSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\ComprehensiveSeeder.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\ComprehensiveSeeder.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\ComprehensiveSeeder.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\ComprehensiveSeeder.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAqwAMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:03:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmailLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:26:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrgUnit.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\OrgUnit.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\OrgUnit.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\OrgUnit.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\OrgUnit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:15:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrgUnitService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\OrgUnitService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\OrgUnitService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\OrgUnitService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\OrgUnitService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:17:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmailQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailQueueService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\EmailQueueService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailQueueService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\EmailQueueService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA+wBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:29:17.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:25:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\ReservationService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:29:21.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OfficersController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\OfficersController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\OfficersController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\OfficersController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\OfficersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:09:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OfficerService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\OfficerService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\OfficerService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\OfficerService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\OfficerService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:09:36.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PMS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\PMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\PMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\PMS.Infrastructure.csproj",
+              "RelativeToolTip": "PMS.Infrastructure\\PMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T17:47:13.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmailRetryBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailRetryBackgroundService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\EmailRetryBackgroundService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailRetryBackgroundService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\EmailRetryBackgroundService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:25:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250914142937_AddEmailLogEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250914142937_AddEmailLogEntity.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250914142937_AddEmailLogEntity.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250914142937_AddEmailLogEntity.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250914142937_AddEmailLogEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:29:37.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailTemplateService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\EmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\EmailTemplateService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\EmailTemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:26:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250913160312_UpdOfficerManagements.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913160312_UpdOfficerManagements.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250913160312_UpdOfficerManagements.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913160312_UpdOfficerManagements.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250913160312_UpdOfficerManagements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:03:13.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250913141300_AddOfficerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913141300_AddOfficerManagement.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250913141300_AddOfficerManagement.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913141300_AddOfficerManagement.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250913141300_AddOfficerManagement.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAEwHIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:13:00.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OfficerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\OfficerRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\OfficerRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\OfficerRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\OfficerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:11:42.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250913185921_AddNotificationTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913185921_AddNotificationTemplates.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250913185921_AddNotificationTemplates.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250913185921_AddNotificationTemplates.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250913185921_AddNotificationTemplates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:59:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OfficerDtos.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Officers\\OfficerDtos.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Models\\Officers\\OfficerDtos.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Officers\\OfficerDtos.cs",
+              "RelativeToolTip": "PMS.Application\\Models\\Officers\\OfficerDtos.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAA9wDcBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:11:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IOfficerService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IOfficerService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IOfficerService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IOfficerService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IOfficerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:09:20.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrgUnitSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\OrgUnitSeeder.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\OrgUnitSeeder.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\OrgUnitSeeder.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\OrgUnitSeeder.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:39:03.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OrgUnitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\OrgUnitRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\OrgUnitRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\OrgUnitRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\OrgUnitRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADgv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:58:56.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DatabaseCleanup.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\DatabaseCleanup.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\DatabaseCleanup.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Data\\DatabaseCleanup.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\DatabaseCleanup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:03:35.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250912214901_remvMDA.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250912214901_remvMDA.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250912214901_remvMDA.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250912214901_remvMDA.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250912214901_remvMDA.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:49:02.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PostDtos.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Posts\\PostDtos.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Models\\Posts\\PostDtos.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Models\\Posts\\PostDtos.cs",
+              "RelativeToolTip": "PMS.Application\\Models\\Posts\\PostDtos.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAEwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:46:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IOrgUnitService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IOrgUnitService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IOrgUnitService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IOrgUnitService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IOrgUnitService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:17:06.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\PMS.API.csproj",
+              "RelativeDocumentMoniker": "PMS.API\\PMS.API.csproj",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\PMS.API.csproj",
+              "RelativeToolTip": "PMS.API\\PMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T21:18:32.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250910212209_removedMDA.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910212209_removedMDA.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250910212209_removedMDA.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910212209_removedMDA.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250910212209_removedMDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:22:09.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "PMS.Application\\Services\\RoleService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAD4v3oAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:45:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "PMS.Application\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Application\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "PMS.Application\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:44:15.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:44:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:44:10.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250910215101_updatePost.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910215101_updatePost.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250910215101_updatePost.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910215101_updatePost.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250910215101_updatePost.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:51:02.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PmsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\PmsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\PmsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\PmsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\PmsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOMDAAAAAAAAAIAwwPEDAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:53:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250910211925_removedMDA.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250910211925_removedMDA.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:19:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250910215101_updatePost.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910215101_updatePost.Designer.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Migrations\\20250910215101_updatePost.Designer.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Infrastructure\\Migrations\\20250910215101_updatePost.Designer.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Migrations\\20250910215101_updatePost.Designer.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAIAwwAkBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:53:13.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANUTAAAAAAAAAAAswOkTAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-10T21:08:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:02:09.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PostRole.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\PostRole.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\PostRole.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\PostRole.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\PostRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:29:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PostOccupancyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\PostOccupancyRequest.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\PostOccupancyRequest.cs",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Domain\\Entities\\PostOccupancyRequest.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\PostOccupancyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:29:15.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PMS.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Tests\\PMS.Tests.csproj",
+              "RelativeDocumentMoniker": "PMS.Tests\\PMS.Tests.csproj",
+              "ToolTip": "C:\\Users\\SulaimonFasasi\\source\\repos\\Imaansoft\\pms\\pms-service\\PMS.Tests\\PMS.Tests.csproj",
+              "RelativeToolTip": "PMS.Tests\\PMS.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T17:47:08.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

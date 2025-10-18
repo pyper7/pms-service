@@ -1,0 +1,15 @@
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\bin\Debug\net9.0\PMS.Application.deps.json
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\bin\Debug\net9.0\PMS.Application.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\bin\Debug\net9.0\PMS.Application.pdb
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\bin\Debug\net9.0\PMS.Domain.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\bin\Debug\net9.0\PMS.Domain.pdb
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.csproj.AssemblyReference.cache
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.AssemblyInfoInputs.cache
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.AssemblyInfo.cs
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Appl.9AE7850F.Up2Date
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\refint\PMS.Application.dll
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\PMS.Application.pdb
+C:\Users\SulaimonFasasi\source\repos\Imaansoft\pms\pms-service\PMS.Application\obj\Debug\net9.0\ref\PMS.Application.dll

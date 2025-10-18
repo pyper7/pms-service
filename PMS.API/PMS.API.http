@@ -1,0 +1,44 @@
+### Test Authentication Endpoints
+
+### 1. Login with Email
+POST https://localhost:7000/api/v1/auth/login
+Content-Type: application/json
+
+{
+  "emailOrStaffId": "hr@tetfund.gov.ng",
+  "password": "password123"
+}
+
+### 1b. Login with StaffId
+POST https://localhost:7000/api/v1/auth/login
+Content-Type: application/json
+
+{
+  "emailOrStaffId": "TET001",
+  "password": "password123"
+}
+
+### 2. Get Profile (requires authentication)
+GET https://localhost:7000/api/v1/auth/profile
+Authorization: Bearer {{token}}
+
+### 3. Refresh Token
+POST https://localhost:7000/api/v1/auth/refresh
+Content-Type: application/json
+
+{
+  "refreshToken": "{{refreshToken}}"
+}
+
+### 4. Logout
+POST https://localhost:7000/api/v1/auth/logout
+Authorization: Bearer {{token}}
+
+### Test with invalid credentials
+POST https://localhost:7000/api/v1/auth/login
+Content-Type: application/json
+
+{
+  "email": "invalid@example.com",
+  "password": "wrongpassword"
+}
